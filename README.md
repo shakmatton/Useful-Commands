@@ -18,3 +18,9 @@
     degit user/repo/subdirectory      [Clone specific directory]
     
     degit user/repo my-new-project my_destination_folder_path    [Specific usage]
+
+<h3>Github problem</h3>
+
+    Error: You Have Not Concluded Your Merge (MERGE_HEAD Exists)
+    
+    **Solution:** git commit -m "commit message"
