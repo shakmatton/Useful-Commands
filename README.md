@@ -19,8 +19,8 @@
     
     degit user/repo my-new-project my_destination_folder_path    [Specific usage]
 
-<h3>Github problem</h3>
+<h3>Github problems & solutions</h3>
 
-    Error: You Have Not Concluded Your Merge (MERGE_HEAD Exists)
+    "Error: You Have Not Concluded Your Merge (MERGE_HEAD Exists)"
     
-    **Solution:** git commit -m "commit message"
+    SOLUTION: git commit -m "commit message"
