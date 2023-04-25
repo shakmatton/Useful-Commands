@@ -62,7 +62,7 @@
         "nuxt.isNuxtApp": false
       }
 
-<h3>How to upload folders to different branches in Github:” </h3>
+<h3>How to upload folders to different branches in Github:</h3>
 
     a) One way is to create a new branch for each folder, and then add only that folder to the new branch1. 
        For example, if you have a folder called lesson-3 that you want to upload to a new branch called lesson-3, you can do:
